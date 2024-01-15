@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "cospire-dev"
+  },
+  "targets": {
+    "cospire-dev": {
+      "hosting": {
+        "moni": [
+          "moniepointest"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

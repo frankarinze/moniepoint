@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0365a056.css",
+    "main.js": "/static/js/main.588b0f22.js",
+    "static/js/787.d5601c2e.chunk.js": "/static/js/787.d5601c2e.chunk.js",
+    "static/media/dental-ic.svg": "/static/media/dental-ic.fd3e2d93a7b1f53992198553440615f0.svg",
+    "static/media/dental-ic-colored.svg": "/static/media/dental-ic-colored.ac42209b3ca2c561d4adf9a0fb30e49b.svg",
+    "static/media/logo-two.png": "/static/media/logo-two.9802f3886e90abf31780.png",
+    "static/media/butterfly.svg": "/static/media/butterfly.eb61b217dc8f748cfc075571f0004238.svg",
+    "index.html": "/index.html",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.48c3c364d1ed470e6acc85988ea71ed6.svg",
+    "static/media/youtube.svg": "/static/media/youtube.9481fe1fd2dec6eed512a494db9f0fcb.svg",
+    "main.0365a056.css.map": "/static/css/main.0365a056.css.map",
+    "main.588b0f22.js.map": "/static/js/main.588b0f22.js.map",
+    "787.d5601c2e.chunk.js.map": "/static/js/787.d5601c2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0365a056.css",
+    "static/js/main.588b0f22.js"
+  ]
+}

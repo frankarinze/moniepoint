@@ -1,0 +1,45 @@
+.card.card-1 {
+    transform: rotate(-24deg) !important;
+}
+
+.card.card-2 {
+    transform: rotate(-15deg) !important;
+}
+
+.card.card-3 {
+    transform: rotate(-8deg) !important;
+}
+
+.card {
+    position: absolute;
+    height: 350px;
+    width: 275px;
+    border-radius: 35px;
+    margin: 10px;
+    padding: 25px;
+    background-size: cover;
+}
+.card-wrapper {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(10px);
+    }
+    60% {
+        transform: translateY(5px);
+    }
+}

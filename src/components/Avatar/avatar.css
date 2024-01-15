@@ -1,0 +1,35 @@
+.avatar-wrapper {
+    display: flex;
+    gap: 16px;
+}
+
+.avatar-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.avatar-container {
+    display: inline-block;
+    overflow: hidden;
+    width: 100px;
+    position: absolute;
+    z-index: 10;
+  }
+
+ 
+  .avatar-container:not(:first-child) {
+    -webkit-mask:radial-gradient(circle 19px at 7px 50%,transparent 99%,#fff 100%);
+    margin-left: 70px;
+    mask: radial-gradient(circle 19px at 7px 50%,transparent 100%,#fff 100%);
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .avatar-container img {
+    width: 100%;
+    display: block;
+  }
+  
+
